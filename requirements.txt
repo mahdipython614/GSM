@@ -1,0 +1,5 @@
+requests
+cefpython3
+pandas
+xlrd
+openpyxl
